@@ -1,0 +1,11 @@
+﻿Chỉ thực hiện các bước này khi không đăng nhập được phần mềm
+
+b1 Khởi động visual
+b2 vào forder global trong solution của project
+b3 vào class SQL
+b4 chạy file qlnt.sql (Khởi tạo csdl chỉ có dữ liệu là username password của admin)
+b5 lấy chuỗi kết nối
+b6 sử dụng chuỗi kết nối cho biến connectString
+
+Lúc này cơ sở dữ liệu chỉ có dữ liệu của một admin cần tự thêm các dữ liệu thuốc, nhà cung cấp
+....

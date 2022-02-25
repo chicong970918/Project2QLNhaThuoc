@@ -1,0 +1,4 @@
+﻿khi chạy chương trình nếu khi click đăng nhập báo đăng nhập thất bại
+ (khi mới khởi động chương trình cần thời gian kết nối với csdl)
+đợi khoảng 20 giây tiến hành đăng nhập lại (click đăng nhập cho đến 
+khi đăng nhập thành công chỉ mất một lần khi mới khởi động chương trình)
